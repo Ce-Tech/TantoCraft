@@ -1,2 +1,2 @@
-# Original
-Original source code Repo
+# TantoCraft
+TantoCraft Minecraft Client source code Repo
